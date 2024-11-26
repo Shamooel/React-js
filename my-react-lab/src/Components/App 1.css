@@ -1,0 +1,33 @@
+
+
+.Greeting {
+    color: brown;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  
+  .Header {
+    background-color: brown;
+    padding: 10px;
+    font-size: 28px;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 8px;
+  }
+  
+  
+  .Content {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    color:brown;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 20px auto;
+    width: 80%;
+    background-color: wheat;
+  }
+  
