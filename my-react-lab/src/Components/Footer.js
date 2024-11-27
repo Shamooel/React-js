@@ -1,7 +1,7 @@
 function Footer() {
     return (
-    <div classname= "Footer">
-    <h1> © 2024 MyReact App</h1>
+    <div >
+    <h1 className= "footer"> © 2024 MyReact App</h1>
     </div>
     );
     }

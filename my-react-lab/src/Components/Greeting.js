@@ -1,6 +1,6 @@
 function Greeting() {
     return (
-    <div classname= "Greeting">
+    <div className= "Greeting">
     <h1> "Hello,Shamoeel Welcome to React!"</h1>
     </div>
     );

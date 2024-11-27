@@ -1,6 +1,4 @@
-
 import './App.css';
-import './Components/App 1.css';
 import Content from './Components/Content';
 import Greeting from './Components/Greeting';
 import Header from './Components/Header';
